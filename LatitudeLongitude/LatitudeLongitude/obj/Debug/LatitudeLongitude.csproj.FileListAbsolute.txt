@@ -1,0 +1,7 @@
+D:\DEH\Docs\Trampo\C#\Entrevista\SCS\LatitudeLongitude\LatitudeLongitude\bin\Debug\LatitudeLongitude.exe.config
+D:\DEH\Docs\Trampo\C#\Entrevista\SCS\LatitudeLongitude\LatitudeLongitude\bin\Debug\LatitudeLongitude.exe
+D:\DEH\Docs\Trampo\C#\Entrevista\SCS\LatitudeLongitude\LatitudeLongitude\bin\Debug\LatitudeLongitude.pdb
+D:\DEH\Docs\Trampo\C#\Entrevista\SCS\LatitudeLongitude\LatitudeLongitude\obj\Debug\LatitudeLongitude.csprojAssemblyReference.cache
+D:\DEH\Docs\Trampo\C#\Entrevista\SCS\LatitudeLongitude\LatitudeLongitude\obj\Debug\LatitudeLongitude.csproj.CoreCompileInputs.cache
+D:\DEH\Docs\Trampo\C#\Entrevista\SCS\LatitudeLongitude\LatitudeLongitude\obj\Debug\LatitudeLongitude.exe
+D:\DEH\Docs\Trampo\C#\Entrevista\SCS\LatitudeLongitude\LatitudeLongitude\obj\Debug\LatitudeLongitude.pdb
